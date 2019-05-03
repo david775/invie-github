@@ -1,7 +1,7 @@
 # Descripción 
 ¿Que ha cambiado?
 
-- [ ] Frondtend
+- [ ] Frontend
 - [ ] Backend
 - [ ] Configuración del server 
 
